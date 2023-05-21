@@ -1,0 +1,42 @@
+{
+    "clothes": [
+      {
+        "id": "1",
+        "title": "HIGH-HEEL LACE-UP SANDALS WITH STRAPS",
+        "count": "89.00",
+        "photo": "./assets/img/d1.jpg"
+      },
+      {
+        "id": "2",
+        "title": "HIGH-HEEL LACE-UP  WITH PINK",
+        "count": "70.00",
+        "photo": "./assets/img/d2.jpg"
+      },
+      {
+        "id": "3",
+        "title": "HIGH-HEEL LACE-UP SANDALS MARMARID",
+        "count": "107.20",
+        "photo": "./assets/img/d3.jpg"
+      },
+      {
+        "id": "4",
+        "title": "HIGH-HEEL LACE-UP SANDALS WITH STAR",
+        "count": "80.00",
+        "photo": "./assets/img/d4.jpg"
+      },
+      {
+        "id": "5",
+        "title": "HIGH-HEEL LACE-UP SANDALS WITH DENIM",
+        "count": "95.00",
+        "photo": "./assets/img/d5.jpg"
+      },
+      {
+        "id": "6",
+        "title": "HIGH-HEEL LACE-UP SANDALS WITH DENIM2",
+        "count": "150.00",
+        "photo": "./assets/img/d6.jpg"
+      }
+     
+    ]
+  }
+  

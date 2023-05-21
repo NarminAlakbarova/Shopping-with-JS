@@ -1,0 +1,34 @@
+{
+  "fav": [
+    {
+      "id": 4,
+      "photo": "./assets/img/s42.jpg",
+      "title": "HIGH-HEEL LACE-UP SANDALS WITH STAR",
+      "count": "80.00"
+    },
+    {
+      "id": 1,
+      "photo": "./assets/img/s1.jpg",
+      "title": "HIGH-HEEL LACE-UP SANDALS WITH STRAPS",
+      "count": "89.00"
+    },
+    {
+      "id": 2,
+      "photo": "./assets/img/s2.jpg",
+      "title": "HIGH-HEEL LACE-UP  WITH PINK",
+      "count": "70.00"
+    },
+    {
+      "id": 3,
+      "photo": "./assets/img/s3.jpg",
+      "title": "HIGH-HEEL LACE-UP SANDALS MARMARID",
+      "count": "107.20"
+    },
+    {
+      "id": 8,
+      "photo": "./assets/img/s8.jpg",
+      "title": "HIGH-HEEL LACE-UP SANDALS WITH DENIM4",
+      "count": "70.00"
+    }
+  ]
+}
